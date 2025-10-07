@@ -119,15 +119,3 @@ Clique duas vezes no arquivo
 Ou use a extensão Live Server (VS Code)
 
 ---
-
-# 🧠 Autor
-
-## Desenvolvido por João Victor Dias e Alura ✨
-📬 Contato: +55 11 94711-6209
-
-💼 [LinkedIn](www.linkedin.com/in/joão-victor-dias-marinho)
-
-🐙 [GitHub](https://github.com/JoaoVictor2105)
-
-📧 Email: joaovcdm21059@gmail.com
-
