@@ -8,7 +8,7 @@
 
 Bem-vindo(a)!  
 Este repositório reúne **mini aplicações interativas** desenvolvidas com **HTML**, **CSS** e **JavaScript**. Cada uma criada para praticar lógica, manipulação do DOM, formulários e interatividade visual.
-(todos os projetos foram aprendidos na Alura)
+(todos os projetos foram aprendidos na platafornma de cursos online, Alura)
 ---
 
 ## 🎁 Amigo Secreto
