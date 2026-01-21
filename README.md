@@ -103,19 +103,3 @@ Ideal para sorteios ou práticas de lógica.
 ```
 HTML | CSS | JavaScript
 ```
-
----
-
-# 🚀 Como Executar
-
-
-## 1. 📲 Copie e cole o repositório no navegador:
-https://github.com/JoaoVictor2105/Projetos.git
-## 2. 🔎 Abra o projeto no seu editor (VS Code recomendado):
-## 3. 🪄 Execute o arquivo index.html no navegador:
-
-Clique duas vezes no arquivo
-
-Ou use a extensão Live Server (VS Code)
-
----
